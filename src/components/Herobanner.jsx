@@ -3,6 +3,10 @@ import { Searchbar } from '../partials/Subheader'
 import Card from './Card'
 import Aboutme from './Aboutme'
 import Counter from './Counter'
+import Categories from './Categories'
+import Popularcourse from './Popularcourse'
+import Timer from './Timer'
+import Studentsuccess from './Studentsuccess'
 
 export default function Herobanner() {
 
@@ -74,6 +78,29 @@ export default function Herobanner() {
 
             
             {/* Counter */}
+
+            {/* Cateogries */}
+            <Categories/>
+
+            {/* Cateogries */}
+
+
+            {/* Popular Course */}
+                <Popularcourse/>
+
+
+            {/* Popular Course */}
+
+            {/* Timer */}
+            <Timer/>
+            {/* Timer */}
+
+
+            {/* Student Success */}
+
+            <Studentsuccess/>
+
+            {/* Student Success */}
         </>
     )
 }

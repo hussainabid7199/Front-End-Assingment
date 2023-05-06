@@ -9,6 +9,7 @@ export default function Aboutme() {
                         <img class="object-cover object-center rounded" alt="hero" src="https://demo.omexer.com/main/wp-content/uploads/sites/3/2021/11/a2-600x620.jpg" />
                     </div>
                     <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
+                    <p class="mb-3 text-[#FF630E] text-base font-semibold uppercase leading-[26px] tracking-[1px]">About Us</p>
                     <p class="mb-3 text-[#FF630E] text-base font-semibold uppercase leading-[26px] tracking-[1px]">START LEARNING FROM HOME</p>
                         <h2 class="text-[#130F40] text-[45px] font-bold capitalize leading-[55px]">I'm teaching online for about 5+ years on programming</h2>
                         <p class="mb-8 leading-7 font-normal not-italic text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, dolorem, at consectetur eos voluptatem eum fuga error voluptas neque, quas repudiandae non quisquam sunt beatae. Debitis dicta voluptas quae impedit.</p>
